@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Your-Paradise/static/css/main.785528a5.chunk.css",
-    "main.js": "/Your-Paradise/static/js/main.574d74d1.chunk.js",
-    "main.js.map": "/Your-Paradise/static/js/main.574d74d1.chunk.js.map",
-    "runtime-main.js": "/Your-Paradise/static/js/runtime-main.6f31a985.js",
-    "runtime-main.js.map": "/Your-Paradise/static/js/runtime-main.6f31a985.js.map",
-    "static/js/2.54111640.chunk.js": "/Your-Paradise/static/js/2.54111640.chunk.js",
-    "static/js/2.54111640.chunk.js.map": "/Your-Paradise/static/js/2.54111640.chunk.js.map",
-    "index.html": "/Your-Paradise/index.html",
-    "precache-manifest.7e568929cb90cc255a1e5211c2ce1e85.js": "/Your-Paradise/precache-manifest.7e568929cb90cc255a1e5211c2ce1e85.js",
-    "service-worker.js": "/Your-Paradise/service-worker.js",
-    "static/css/main.785528a5.chunk.css.map": "/Your-Paradise/static/css/main.785528a5.chunk.css.map",
-    "static/js/2.54111640.chunk.js.LICENSE.txt": "/Your-Paradise/static/js/2.54111640.chunk.js.LICENSE.txt"
+    "main.css": "/fasovka/static/css/main.785528a5.chunk.css",
+    "main.js": "/fasovka/static/js/main.574d74d1.chunk.js",
+    "main.js.map": "/fasovka/static/js/main.574d74d1.chunk.js.map",
+    "runtime-main.js": "/fasovka/static/js/runtime-main.95474156.js",
+    "runtime-main.js.map": "/fasovka/static/js/runtime-main.95474156.js.map",
+    "static/js/2.54111640.chunk.js": "/fasovka/static/js/2.54111640.chunk.js",
+    "static/js/2.54111640.chunk.js.map": "/fasovka/static/js/2.54111640.chunk.js.map",
+    "index.html": "/fasovka/index.html",
+    "precache-manifest.529556bef3a6e7489af0b04d9ce6c97c.js": "/fasovka/precache-manifest.529556bef3a6e7489af0b04d9ce6c97c.js",
+    "service-worker.js": "/fasovka/service-worker.js",
+    "static/css/main.785528a5.chunk.css.map": "/fasovka/static/css/main.785528a5.chunk.css.map",
+    "static/js/2.54111640.chunk.js.LICENSE.txt": "/fasovka/static/js/2.54111640.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f31a985.js",
+    "static/js/runtime-main.95474156.js",
     "static/js/2.54111640.chunk.js",
     "static/css/main.785528a5.chunk.css",
     "static/js/main.574d74d1.chunk.js"
