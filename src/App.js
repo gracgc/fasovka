@@ -18,7 +18,7 @@ const App = (props) =>  {
                     <div className='app-wrapper-content-navbar'>
                         <div className='navbar'><Navbar/></div>
                         <div className='content'>
-                            <Route path='/' render={() => <Contacts/>}/>
+                            <Route path='/contacts' render={() => <Contacts/>}/>
                             <Route path='/goods' render={() => <GoodsComponent/>}/>
                         </div>
                     </div>
