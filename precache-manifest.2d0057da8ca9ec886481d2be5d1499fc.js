@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6facf55ba8efa6ed472876811a1105f0",
+    "revision": "2f6cbc31701dc0087a431996faad6418",
     "url": "/fasovka/index.html"
   },
   {
-    "revision": "e018a08388a9fad09d35",
+    "revision": "9669cfb74f1e944e81e5",
     "url": "/fasovka/static/css/main.e73047ec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fasovka/static/js/2.54111640.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e018a08388a9fad09d35",
-    "url": "/fasovka/static/js/main.574d74d1.chunk.js"
+    "revision": "9669cfb74f1e944e81e5",
+    "url": "/fasovka/static/js/main.6bbf01dd.chunk.js"
   },
   {
     "revision": "87ebab1c2cb600bace03",
