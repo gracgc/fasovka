@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fasovka/static/css/main.e73047ec.chunk.css",
-    "main.js": "/fasovka/static/js/main.6bbf01dd.chunk.js",
-    "main.js.map": "/fasovka/static/js/main.6bbf01dd.chunk.js.map",
+    "main.js": "/fasovka/static/js/main.574d74d1.chunk.js",
+    "main.js.map": "/fasovka/static/js/main.574d74d1.chunk.js.map",
     "runtime-main.js": "/fasovka/static/js/runtime-main.95474156.js",
     "runtime-main.js.map": "/fasovka/static/js/runtime-main.95474156.js.map",
     "static/js/2.54111640.chunk.js": "/fasovka/static/js/2.54111640.chunk.js",
     "static/js/2.54111640.chunk.js.map": "/fasovka/static/js/2.54111640.chunk.js.map",
     "index.html": "/fasovka/index.html",
-    "precache-manifest.2d0057da8ca9ec886481d2be5d1499fc.js": "/fasovka/precache-manifest.2d0057da8ca9ec886481d2be5d1499fc.js",
+    "precache-manifest.77cda272c011db1d97f915294121cd96.js": "/fasovka/precache-manifest.77cda272c011db1d97f915294121cd96.js",
     "service-worker.js": "/fasovka/service-worker.js",
     "static/css/main.e73047ec.chunk.css.map": "/fasovka/static/css/main.e73047ec.chunk.css.map",
     "static/js/2.54111640.chunk.js.LICENSE.txt": "/fasovka/static/js/2.54111640.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.95474156.js",
     "static/js/2.54111640.chunk.js",
     "static/css/main.e73047ec.chunk.css",
-    "static/js/main.6bbf01dd.chunk.js"
+    "static/js/main.574d74d1.chunk.js"
   ]
 }
