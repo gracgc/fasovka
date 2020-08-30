@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fasovka/precache-manifest.529556bef3a6e7489af0b04d9ce6c97c.js"
+  "/fasovka/precache-manifest.77cda272c011db1d97f915294121cd96.js"
 );
 
 self.addEventListener('message', (event) => {
