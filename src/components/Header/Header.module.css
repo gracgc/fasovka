@@ -1,31 +1,24 @@
-header img {
-    display: block;
+header {
+
 }
 
 .logo {
     border: black solid 3px;
-    font-size: large;
     width: 170px;
-    height: 40px;
     font-family: fantasy;
-    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
     left: 25px;
     top: 25px;
+    padding: 10px;
     background-color: white;
-}
-
-.logoText {
-    width: 180px;
-    height: 20px;
-    display: block;
-    margin-top: 10px;
-    margin-left: 5px;
 }
 
 .contacts {
     position: absolute;
     right: 20px;
-    top: 30px;
+    top: 25px;
     color: white;
     font-size: 18px;
 }

@@ -1,3 +1,18 @@
-.settings {
-    display: block;
+.goods {
+    display: grid;
+    grid-template-columns: 60% 1fr;
+}
+
+.goodsMenuItem {
+    border: 1px black solid;
+    cursor: pointer;
+    width: 40%;
+    height: 30px;
+    position: relative;
+    left: 20%;
+    padding: 10px;
+}
+
+.goodsMenuItem:hover {
+    background: aquamarine;
 }

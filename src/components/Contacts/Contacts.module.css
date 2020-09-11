@@ -1,3 +1,4 @@
-.settings {
-    display: flex;
+.contacts {
+    display: block;
+    padding: 50px;
 }

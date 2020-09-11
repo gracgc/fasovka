@@ -10,11 +10,13 @@ a {
 }
 
 .navButton {
-    display: inline-flex;
+    display: inline-block;
     width: 120px;
-    height: 30px;
-    padding: 10px;
+    height: 35px;
     background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
 }
 
 .activeLink {
@@ -25,8 +27,5 @@ a {
     background-color: #deedff;
 }
 
-.buttonName {
-    margin: auto;
-}
 
 

@@ -8,11 +8,11 @@ const Navbar = () => {
     return (
         <div className={c.nav}>
             <NavLink to="/contacts" className={c.navButton} activeClassName={c.activeLink}>
-                    <div className={c.buttonName}>О нас</div>
+                О нас
             </NavLink>
 
             <NavLink to="/goods" className={c.navButton} activeClassName={c.activeLink}>
-                <div className={c.buttonName}>Товары</div>
+                Товары
             </NavLink>
         </div>
     );
