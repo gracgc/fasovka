@@ -1,18 +1,21 @@
 .goods {
     display: grid;
-    grid-template-columns: 60% 1fr;
+    grid-template-columns: 60% 15%;
 }
 
 .goodsMenuItem {
     border: 1px black solid;
     cursor: pointer;
-    width: 40%;
-    height: 30px;
     position: relative;
-    left: 20%;
-    padding: 10px;
+    left: 50%;
+    padding: 5px 0 5px 20px;
 }
 
 .goodsMenuItem:hover {
     background: aquamarine;
+}
+
+.activeMenu {
+    background-color: #0b4a2b;
+    color: white;
 }

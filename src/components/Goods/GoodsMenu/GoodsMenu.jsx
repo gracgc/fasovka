@@ -3,24 +3,19 @@ import c from '../Goods.module.css'
 
 const GoodsMenu = (props) => {
 
+    let menuName = [... new Set(props.goods.map(g => g.type))];
 
     return (
         <div style={{paddingTop: "50px"}}>
-            <div className={c.goodsMenuItem} onClick={(e) => props.setFilteredGoods(null)}>
-                Все товары
+
+            <div className={c.goodsMenuItem} activeClassName={c.activeMenu} onClick={(e) => props.setFilteredGoods(null)}>
+                <b>Все товары</b>
             </div>
-            <div className={c.goodsMenuItem} onClick={(e) => props.setFilteredGoods('рис')}>
-                Рис
-            </div>
-            <div className={c.goodsMenuItem} onClick={(e) => props.setFilteredGoods('гречка')}>
-                Гречка
-            </div>
-            <div className={c.goodsMenuItem} onClick={(e) => props.setFilteredGoods('сахар')}>
-                Сахар
-            </div>
-            <div className={c.goodsMenuItem} onClick={(e) => props.setFilteredGoods('перловка')}>
-                Перловка
-            </div>
+
+            {menuName.map(mn => <div className={c.goodsMenuItem} onClick={(e) => props.setFilteredGoods(mn)}>
+                {mn.toUpperCase()}
+            </div>)}
+
         </div>
     )
 };

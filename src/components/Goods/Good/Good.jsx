@@ -8,9 +8,10 @@ const Good = (props) => {
                     <img style={{height: "100%", width: "100%"}} src={props.img} alt=""/>
                 </div>
                 <div style={{marginTop: "20px", marginLeft: "20px"}}>
-                    Название: {props.name} <br/>
-                    Тип: {props.type} <br/>
-                    Цена: {props.cost} рублей
+                    <b>{props.name}</b> <br/>
+                    Варианты веса: {props.weight.map(w => <div style={{display: "inline-flex", margin: "20px"}}>
+                    {w} кг
+                </div>)}
                 </div>
             </div>
         </div>
